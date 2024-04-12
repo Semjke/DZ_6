@@ -30,3 +30,7 @@ Windows:
 ```sh
 dir
 ```
+Linux,Macos:
+```sh
+ls
+```
