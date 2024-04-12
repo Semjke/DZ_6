@@ -35,3 +35,11 @@ Linux,Macos:
 ls
 ```
 текст *курсив*
+Удаление файла в Windows :
+```sh
+del
+```
+В Linux, Macos :
+```sh
+rm
+```
