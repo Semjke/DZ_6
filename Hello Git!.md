@@ -25,3 +25,8 @@ cd c:\folder_name
 ```sh
 pwd
 ```
+Листинг текущей деректории
+Windows:
+```sh
+dir
+```
