@@ -76,3 +76,4 @@ git log --oneline Отображает все комиты в урошенном
 ```sh
 Git merge - сливание веток branch
 ```
+Команда ****git log --oneline --graph** показывает полную картину.
