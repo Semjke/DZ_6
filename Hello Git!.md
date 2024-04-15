@@ -63,6 +63,8 @@ gid add - Команда используется для добавления и
 git commit -m "коментрарий к строке или сохранению"
 ```
 ![Git branch](Git_branch.png)
+![Git branch](Git_branch2.png)
+![Git branch del](Gid_branchdel.png)
 ```sh
 git checkout - (ветка) прыжки по веткам на которых работаешь
 ```
