@@ -51,15 +51,18 @@ rm
 Текст [пример ссылки](https://www.youtube.com "Всплывающая подсказка")
 Создание репозитория:
 ```sh
-git init
+git init 
 ```
+![git init](Git_init.png)
 Git создает в указанной папке скрытую папку "git"
 ```sh
 gid add - Команда используется для добавления изменений в индекс Git
 ```
+![git add](Git_add.png)
 ```sh
 git commit -m "коментрарий к строке или сохранению"
 ```
+![Git branch](Git_branch.png)
 ```sh
 git checkout - (ветка) прыжки по веткам на которых работаешь
 ```
