@@ -78,3 +78,8 @@ Git merge - сливание веток branch
 ```
 Команда ****git log --oneline --graph** показывает полную картину.
 Команда *graph* показывает ветки комитов.
+ 
+ **Выполняем команду клонирования из своей fork-копии**
+```sh
+git clone git@github.com:*YOURE_GITHUB*/version_control.git
+```
