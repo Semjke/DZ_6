@@ -102,3 +102,4 @@ _Что бы сделать push от другого пользователя н
 git push git@github.com:gulden-geekbrains/version_control.git
 ```
 Добавляем последнюю строку для переноса с гита
+И обратно в гид! End
