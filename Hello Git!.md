@@ -83,3 +83,10 @@ Git merge - сливание веток branch
 ```sh
 git clone git@github.com:*YOURE_GITHUB*/version_control.git
 ```
+**Создаем новую ветку и вносим необходимые изменения в файл**
+```sh
+git checkout -b updatereadme
+vim README.md
+git add README.md
+git commit -m "Добавили инструкцию как создать pull request"
+```
