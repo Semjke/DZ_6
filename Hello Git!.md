@@ -94,3 +94,5 @@ git commit -m "Добавили инструкцию как создать pull 
 ```sh
 git push --set-upstream origin updatereadme
 ```
+*Как подружить* **git с github под Windows 10**
+![Вот видео инструкция](https://youtu.be/E8cIjbJMEpE)
