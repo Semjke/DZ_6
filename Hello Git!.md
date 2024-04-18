@@ -94,3 +94,8 @@ git commit -m "Добавили инструкцию как создать pull 
 ```sh
 git push --set-upstream origin updatereadme
 ```
+***Заметки***
+_Что бы сделать push от другого пользователя необходимо выполнить команду_
+```sh
+git push git@github.com:gulden-geekbrains/version_control.git
+```
