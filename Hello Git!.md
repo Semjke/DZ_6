@@ -96,3 +96,8 @@ git push --set-upstream origin updatereadme
 ```
 *Как подружить* **git с github под Windows 10**
 ![Вот видео инструкция](https://youtu.be/E8cIjbJMEpE)
+***Заметки***
+_Что бы сделать push от другого пользователя необходимо выполнить команду_
+```sh
+git push git@github.com:gulden-geekbrains/version_control.git
+```
